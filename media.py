@@ -5,6 +5,3 @@ class M:
         self.s = s
         self.i = i
         self.y = y
-    def show_trailer():
-        webbrowser.open(self.t)
-
