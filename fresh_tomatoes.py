@@ -156,7 +156,7 @@ def open_movies_page(movies):
     rendered_content = main_page_content.format(
         movie_tiles=create_movie_tiles_content(movies))
 
-    # Output the file
+    # Output the files
     output_file.write(main_page_head + rendered_content)
     output_file.close()
 
