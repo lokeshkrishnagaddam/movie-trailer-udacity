@@ -1,5 +1,5 @@
 import webbrowser
-class Movie:
+class Movies:
     def __init__(self, t, s, i, y):
         self.t = t
         self.s = s
