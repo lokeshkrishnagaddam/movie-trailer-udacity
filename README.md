@@ -5,3 +5,10 @@ After that when you run the python files an web page opens and shows list of mov
 Resources:
 Through udacity classes
 and pictures are through wikipedia and etc...,
+For compiling the program
+Clone the directory
+Navigate to the directory cd repository_name
+Run python entertainment_center.py
+IDLE:
+Open IDLE
+In the menu bar click on Run -> Run Module or press F5 on your keyboard
